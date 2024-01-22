@@ -1,6 +1,6 @@
 *{
     background: #C4C4C4;
-    ;
+    max-width: 380px;
 }
 /*TodoCounter.js tiene el export*/
 h1{
@@ -20,8 +20,3 @@ h1{
     font-weight: 700;
 }
 /*TodoCounter.js tiene el export*/
-
-li{
-    text-decoration: none;
-    list-style: none;
-}

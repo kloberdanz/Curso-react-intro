@@ -8,9 +8,9 @@ import React from 'react';
 
 const defaultTodos = [
 
-{  text: "cortar cebolla", completed: true},
-{  text: "llorar a la lloreria", completed: false},
-{  text: "coso", completed: true},
+{  text: "Cortar cebolla", completed: true},
+{  text: "A llorar a la lloreria", completed: false},
+{  text: "El cosito del coso", completed: true},
 {  text: "Muchaaaachoss", completed: false},
 
 
