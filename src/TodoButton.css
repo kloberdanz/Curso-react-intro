@@ -8,6 +8,9 @@ button {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    margin-left: 300px;
     cursor: pointer;
+    display: flex;
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
 }

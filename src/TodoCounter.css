@@ -1,7 +1,9 @@
 *{
     background: #C4C4C4;
     max-width: 380px;
+    margin: auto;
 }
+
 /*TodoCounter.js tiene el export*/
 h1{
     width: 327px;
